@@ -1,4 +1,3 @@
-
 from funciones import registrar_pacientes, agregar_consulta, mostrar_paciente, mostrar_todos
 
 def menu():
